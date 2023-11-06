@@ -1,0 +1,23 @@
+table {
+    table-layout: fixed;
+    border: 1;
+}
+
+table th{
+    width: 120px;
+}
+
+table td{
+    width: 120px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid black ;
+}
+
+img{
+    width: 850px;
+    height: auto;
+}
